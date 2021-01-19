@@ -77,14 +77,18 @@ When creating your course, you'll need to create files and folders with the exac
 │   ├── lecture_...
 │   ├── absorption.md
 │   └── quiz_1.md
+│   └── img
+│       └── raw_img1.xlsx
+│       └── img1.png
 ├── block_2
 │   ├── lecture_1.md
 │   ├── lecture_2.md
 │   ├── absorption.md
 │   └── quiz_1.md
 ├── block_...
-├── tutorials.md
-└── exercises.md
+├── exercise.md
+└── tutorial.md
+└── reading.md
 ```
 
 # Summary
